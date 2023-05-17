@@ -9,7 +9,7 @@ option resLim = 200 ;
 
 * $call g********e instance_excel.xlsx o=instance_excel.gdx index=Parameter!A1:D7
         
-$gdxin instance_excel.gdx
+* ****** instance_excel.gdx
 
 scalars
    n_nod number of nodes
